@@ -1,4 +1,4 @@
-# golang-SDK 说明
+# Golang-SDK 说明
 
 ## 1 简介
 
@@ -22,7 +22,7 @@ golang-SDK 是用于服务器端点播上传的软件开发工具包，提供简
 
 - 适用于 go1.7及以上版本。
 - 通过管理控制台->账户信息获取AppKey和AppSecret；
-- 下载 golang sdk，如果安装了git命令行，执行 git clone https://github.com/vcloud/golang-sdk.git或者直接在github下载zip包。
+- 下载 golang sdk，如果安装了git命令行，执行 git clone `https://github.com/vcloud/golang-sdk.git` 或者直接在github下载zip包。
 - 参照 API 说明和 sdk 中提供的 demo，开发代码。
 
 
